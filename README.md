@@ -1,6 +1,10 @@
-# Vue 3 + Vite
+# To-do usando Vue 3 + Vite + TailwindCSS
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+🇧🇷 Este projeto básico criado com Vue.js foi desenvolvido para fins de aprendizado. Admito que enfrentei algumas dificuldades na aplicação e comunicação entre os componentes, mas acredito que meu desempenho irá melhorar conforme prosseguir com os estudos.
+
+🇺🇸 This basic project created with Vue.js was developed for learning purposes. I admit I faced some challenges in the application and communication between the components, but I believe my performance will improve as I continue with my studies.
+
+![Alt text](image.png)
 
 ## Recommended IDE Setup
 
